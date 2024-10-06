@@ -1,0 +1,26 @@
+2024-10-05 09:38:40.430650427  Server listening on 0.0.0.0 port 2222.
+2024-10-05 09:38:40.431486661  Server listening on :: port 2222.
+2024-10-05 09:38:41.396015478  Connection to localhost (127.0.0.1) 2222 port [tcp/*] succeeded!
+2024-10-05 09:38:41.446744950  Connection closed by 127.0.0.1 port 59172
+2024-10-05 09:42:21.660821207  Connection closed by 172.22.0.1 port 58806 [preauth]
+2024-10-05 09:48:35.967118594  Accepted password for sshuser from 172.22.0.1 port 58822 ssh2
+2024-10-05 09:48:35.978424535  Attempt to write login records by non-root user (aborting)
+2024-10-05 09:48:39.046432971  Attempt to write login records by non-root user (aborting)
+2024-10-05 09:48:39.048300038  Received disconnect from 172.22.0.1 port 58822:11: disconnected by user
+2024-10-05 09:48:39.049185941  Disconnected from user sshuser 172.22.0.1 port 58822
+2024-10-05 09:55:28.510045674  Accepted password for sshuser from 172.22.0.1 port 58842 ssh2
+2024-10-05 09:55:28.522994823  Attempt to write login records by non-root user (aborting)
+2024-10-05 09:59:29.823242444  Attempt to write login records by non-root user (aborting)
+2024-10-05 09:59:29.825601112  Received disconnect from 172.22.0.1 port 58842:11: disconnected by user
+2024-10-05 09:59:29.826308464  Disconnected from user sshuser 172.22.0.1 port 58842
+2024-10-05 10:08:48.432415407  Received signal 15; terminating.
+2024-10-05 10:11:40.389653841  Server listening on 0.0.0.0 port 2222.
+2024-10-05 10:11:40.390772754  Server listening on :: port 2222.
+2024-10-05 10:11:41.359693487  Connection to localhost (127.0.0.1) 2222 port [tcp/*] succeeded!
+2024-10-05 10:11:41.403625733  Connection closed by 127.0.0.1 port 59222
+2024-10-05 10:32:02.630545710  Received signal 15; terminating.
+2024-10-05 10:32:40.927508872  Server listening on 0.0.0.0 port 2222.
+2024-10-05 10:32:40.929469094  Server listening on :: port 2222.
+2024-10-05 10:32:41.899515612  Connection to localhost (127.0.0.1) 2222 port [tcp/*] succeeded!
+2024-10-05 10:32:41.928860662  Connection closed by 127.0.0.1 port 59354
+2024-10-05 10:34:28.513378885  Received signal 15; terminating.

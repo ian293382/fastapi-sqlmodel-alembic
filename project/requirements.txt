@@ -1,2 +1,8 @@
 fastapi==0.100.0
 uvicorn==0.22.0
+sqlmodel==0.0.8
+mysqlclient==2.0.3
+aiomysql
+cryptography
+alembic==1.11.1
+pydantic
